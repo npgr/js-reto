@@ -6,7 +6,7 @@ import SearchIcon from 'material-ui/svg-icons/action/search';
 import TableProducts from './TableProducts'
 import NewProduct from './newProduct'
 
-import store from './store/ProductStore'
+import store from '../store/ProductStore'
 
 @observer
 export default class Products extends React.Component {

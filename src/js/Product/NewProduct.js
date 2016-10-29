@@ -2,12 +2,10 @@
 import React from 'react';
 import { observer } from 'mobx-react'
 
-import store from './store/ProductStore'
+import store from '../store/ProductStore'
 
-//import RaisedButton from 'material-ui/RaisedButton';
 import FlatButton from 'material-ui/FlatButton';
 import Dialog from 'material-ui/Dialog';
-//import FloatingActionButton from 'material-ui/FloatingActionButton';
 import CloseIcon from 'material-ui/svg-icons/content/clear';
 
 @observer
@@ -128,7 +126,6 @@ export default class NewProduct extends React.Component {
 			</label>		
       </div>
 	  </Dialog>
-	  
 	)
   }
 }

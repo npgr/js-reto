@@ -5,7 +5,7 @@ import RaisedButton from 'material-ui/RaisedButton';
 import IconButton from 'material-ui/IconButton';
 import SearchIcon from 'material-ui/svg-icons/action/search';
 
-import store from './CustomerStore'
+import store from './store/CustomerStore'
 
 export default class Customers extends React.Component {
 
@@ -22,7 +22,8 @@ export default class Customers extends React.Component {
 			borderRadius: "8px",
 			backgroundColor: "rgb(226, 245, 255)",
 			//width: "90%",
-			padding: "15px"
+			padding: "15px",
+			width: "300px"
 		}
 		const header = {
 			color: "red"

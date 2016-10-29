@@ -9,7 +9,7 @@ import About from './About';
 import Order from './Order';
 import Saved_Orders from './Saved_Orders';
 import Customers from './Customers';
-import Products from './Products';
+import Products from './Product/Products';
 import Settings from './Settings';
 
 injectTapEventPlugin();
