@@ -68,6 +68,8 @@ Para acceder a la aplicación ingrese a la siguiente ruta en el browser:
 El servidor reconocerá automáticamente todo cambio al código fuente y se actualizará la
 página en el Browser
 
+**Nota:** estas instrucciones corresponden a la ejecución de la aplicación en ambiente de desarrollo
+
 ## Caracteristicas de Aplicación
 
 - Aplicación javascrit SPA basada en React.js + MobX
