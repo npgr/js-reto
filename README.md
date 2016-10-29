@@ -65,6 +65,9 @@ Para acceder a la aplicación ingrese a la siguiente ruta en el browser:
 
 	http://localhost:8080
 	
+El servidor reconocerá automáticamente todo cambio al código fuente y se actualizará la
+página en el Browser
+
 ## Caracteristicas de Aplicación
 
 - Aplicación javascrit basada en React.js + MobX
@@ -85,7 +88,7 @@ Caso ideal sería mantener todos los estilos en archivo aparte
 ascendente (primer click) / descendente (segundo click), mediante click en título 
 - Aplicación hecha con Pasión y Cafe...
 
-# Opciones Faltantes (Es cuestión de más tiempo y Cafe...)
+## Opciones Faltantes (Es cuestión de más tiempo y Cafe...)
 
 - No se incluyó opción responsive en Dialogo de Nuevos Productos 
 - Tests
