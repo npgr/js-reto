@@ -58,10 +58,31 @@ Para iniciar la aplicación ejecute el comando:
 
 	npm start
 	
+Esperar a que el servidor arranque completamente, verá el mensaje en consola "...webpack: bundle is now VALID.
+"
+
 Para acceder a la aplicación ingrese a la siguiente ruta en el browser:
 
 	http://localhost:8080
 	
-## Caracteristicas
+## Caracteristicas de Aplicación
 
-   
+- Aplicación javascrit basada en React.js + MobX
+- Uso de Webpack, ES6, Babel
+- Uso de React-Router para lo cual se incluyó Menú Colapsable lateral y opciones adicionales (plus)
+- Uso de libreria Material-UI (React.js UI Components)
+- El uso de la libreria Material-UI fuerza a utilizar algunos estilos inline.
+Caso ideal sería mantener todos los estilos en archivo aparte
+- Persistencia de productos en localStorage (HTML5)
+- Uso de Responsive Design en página principal de productos. 
+- Dos modalidades de storage
+  - ProductStorage: MobX
+  - CustomerStorage: Clase ES6 'standard' (plus)
+- Uso de libreria Axios para carga de datos desde servicio REST en CustomerStorage (Plus)
+- Filtrado de Productos y Clientes por nombre. Se optó por filtrado 'Case sensitive'
+- Se decidió hacer filtrado de productos 'onChange' sin necesidad de click en Botón
+- Opción para ordenar cada una de las columnas de la tabla de productos de forma 
+ascendente (primer click) / descendente (segundo click), mediante click en título
+
+  ## Disfrute su Aplicación... !!!
+
