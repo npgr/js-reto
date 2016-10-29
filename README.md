@@ -49,4 +49,19 @@ Los requerimientos del desafío parecen imprecisos, eso está bien?
 - Esto está diseñado para que tenga un final abierto, así que sientase libre de tener creatividad en las áreas a las que les falta directrices detalladas.
 
 # Como correr Mi App (README.md)
---- Inserte su readme aquí ---
+
+Luego de descargar la Aplicación debe instalar las dependencias:
+
+    npm install
+	
+Para iniciar la aplicación ejecute el comando:
+
+	npm start
+	
+Para acceder a la aplicación ingrese a la siguiente ruta en el browser:
+
+	http://localhost:8080
+	
+## Caracteristicas
+
+   
