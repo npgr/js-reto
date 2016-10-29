@@ -70,7 +70,7 @@ página en el Browser
 
 **Nota:** estas instrucciones corresponden a la ejecución de la aplicación en ambiente de desarrollo
 
-## Caracteristicas de Aplicación
+## Caracteristicas de la Aplicación
 
 - Aplicación javascrit SPA basada en React.js + MobX
 - Uso de Webpack, ES6, Babel
