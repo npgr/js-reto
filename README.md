@@ -72,7 +72,7 @@ página en el Browser
 
 ## Caracteristicas de la Aplicación
 
-- Aplicación javascrit SPA basada en React.js + MobX
+- Aplicación javascript SPA basada en React.js + MobX
 - Uso de Webpack, ES6, Babel
 - Uso de React-Router para lo cual se incluyó Menú Colapsable lateral y opciones adicionales (plus)
 - Uso de libreria Material-UI (React.js UI Components)
