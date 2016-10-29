@@ -70,7 +70,7 @@ página en el Browser
 
 ## Caracteristicas de Aplicación
 
-- Aplicación javascrit basada en React.js + MobX
+- Aplicación javascrit SPA basada en React.js + MobX
 - Uso de Webpack, ES6, Babel
 - Uso de React-Router para lo cual se incluyó Menú Colapsable lateral y opciones adicionales (plus)
 - Uso de libreria Material-UI (React.js UI Components)
@@ -90,12 +90,13 @@ ascendente (primer click) / descendente (segundo click), mediante click en títu
 
 ## Opciones Faltantes (Es cuestión de más tiempo y Cafe...)
 
-- No se incluyó opción responsive en Dialogo de Nuevos Productos 
+- No se incluyó opción responsive en Dialogo de Nuevos Productos
+- Validar Campos Requeridos en Dialogo de Nuevos Productos 
 - Tests
 - Los íconos (arrow drop down / arrow drop up) en títulos, asociados a la opción 
 de ordenar columnas
 - Más estilo en menú colapsable Lateral
-- Incluir todos los Commits Originales en Github (creo no se estaba evaluando esto)
+- Incluir todos los Commits Originales en Github (creo no se esta evaluando esto)
 
-  ## Disfrute su Aplicación... !!!
+  ## Disfrute su nueva Aplicación... !!!
 
