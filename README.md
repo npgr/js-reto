@@ -74,7 +74,7 @@ Para acceder a la aplicación ingrese a la siguiente ruta en el browser:
 - El uso de la libreria Material-UI fuerza a utilizar algunos estilos inline.
 Caso ideal sería mantener todos los estilos en archivo aparte
 - Persistencia de productos en localStorage (HTML5)
-- Uso de Responsive Design en página principal de productos. 
+- Uso de Responsive Design en página principal de productos.
 - Dos modalidades de storage
   - ProductStorage: MobX
   - CustomerStorage: Clase ES6 'standard' (plus)
@@ -82,7 +82,17 @@ Caso ideal sería mantener todos los estilos en archivo aparte
 - Filtrado de Productos y Clientes por nombre. Se optó por filtrado 'Case sensitive'
 - Se decidió hacer filtrado de productos 'onChange' sin necesidad de click en Botón
 - Opción para ordenar cada una de las columnas de la tabla de productos de forma 
-ascendente (primer click) / descendente (segundo click), mediante click en título
+ascendente (primer click) / descendente (segundo click), mediante click en título 
+- Aplicación hecha con Pasión y Cafe...
+
+# Opciones Faltantes (Es cuestión de más tiempo y Cafe...)
+
+- No se incluyó opción responsive en Dialogo de Nuevos Productos 
+- Tests
+- Los íconos (arrow drop down / arrow drop up) en títulos, asociados a la opción 
+de ordenar columnas
+- Más estilo en menú colapsable Lateral
+- Incluir todos los Commits Originales en Github (creo no se estaba evaluando esto)
 
   ## Disfrute su Aplicación... !!!
 
